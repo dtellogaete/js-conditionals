@@ -26,7 +26,7 @@ Ingresa la contraseña correcta y visualiza el mensaje en la etiqueta HTML.
 
 Eventos: 
 
-* Seleccionar las contraseñas correctas (911 y 711): entrega el mensaje "password 1 correcta" y "password 2 correcta" respectivamente   
+* Seleccionar las contraseñas correctas (911 y 714): entrega el mensaje "password 1 correcta" y "password 2 correcta" respectivamente   
 * Seleccionar contraseña incorrecta: se visualiza el mensaje "password incorrecto".
 
 ### Ver el proyecto
