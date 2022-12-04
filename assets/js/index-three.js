@@ -9,7 +9,7 @@ const checkPassword = () => {
     if(pass == 911){     
         document.querySelector("#text-select").innerHTML = "password 1 correcto";        
     } else if (pass == 714){
-        document.querySelector("#text-select").innerHTML = "password 2 es correcto"; 
+        document.querySelector("#text-select").innerHTML = "password 2 correcto"; 
     } else{
         document.querySelector("#text-select").innerHTML = "password incorrecto"; 
     }
