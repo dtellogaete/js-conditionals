@@ -1,6 +1,6 @@
 # Desafío 2: Condiciones
 
-![Condiciones](/assets/img/df-1.png "Condiciones")
+![Condiciones](/assets/img/df-main.png "Condiciones")
 
 ## Desafío Parte 1
 
@@ -20,7 +20,7 @@ Eventos:
 
 ## Desafío Parte 3
 
-![Parte 3](/assets/img/df-2.png "Parte 3")
+![Parte 3](/assets/img/df-3.png "Parte 3")
 
 Ingresa la contraseña correcta y visualiza el mensaje en la etiqueta HTML.
 
