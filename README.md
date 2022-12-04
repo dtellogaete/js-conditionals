@@ -30,5 +30,5 @@ Eventos:
 * Seleccionar contraseña incorrecta: se visualiza el mensaje "password incorrecto".
 
 ### Ver el proyecto
-La pagina se puede ver en el siguiente enlace: [https://dtellogaete.github.io/js-conditionals/index.html](https://dtellogaete.github.io/js-conditionals/index.html)]
+La pagina se puede ver en el siguiente enlace: [https://dtellogaete.github.io/js-conditionals/index.html](https://dtellogaete.github.io/js-conditionals/index.html)
 
